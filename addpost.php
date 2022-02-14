@@ -1,6 +1,7 @@
 <?php
     require('config/config.php');
     require('config/db.php');
+    include('config/functions.php');
 
     // keep track of error
     $error = '';
