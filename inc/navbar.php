@@ -10,10 +10,13 @@
           <li class="nav-item">
             <a class="nav-link" aria-current="page" href="<?php echo ROOT_URL; ?>">Home</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="<?php echo ROOT_URL; ?>addpost.php">Add Post</a>
+          </li>
         </ul>
-        <form>
+        <!-- <form>
           <input class="form-control" type="text" placeholder="Search" aria-label="Search">
-        </form>
+        </form> -->
       </div>
     </div>
   </nav>
